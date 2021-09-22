@@ -1,0 +1,39 @@
+_repo: Segen-der-Erde_66326
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Klaiber, Pauline
+    alias: Klaiber-Gottschau, Pauline
+    birthdate: 1855
+    deathdate: 1944
+    gutenberg_agent_id: '35014'
+    url: http://www.gutenberg.org/2009/agents/35014
+    wikipedia: https://de.wikipedia.org/wiki/Pauline_Klaiber-Gottschau
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Thode, Knut
+    - Hamsund, Knut Pedersen
+    - Gamsun, Knut
+    - Pedersen, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Knut_Hamsun
+    - https://en.wikipedia.org/wiki/Knut_Hamsun
+    - https://fi.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2021-09-17'
+identifiers:
+  gutenberg: '66326'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Segen der Erde
+url: http://www.gutenberg.org/ebooks/66326
