@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '35014'
     url: http://www.gutenberg.org/2009/agents/35014
     wikipedia: https://de.wikipedia.org/wiki/Pauline_Klaiber-Gottschau
+covers:
+- cover_type: archival
+  image_path: 66326-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamsun, Knut
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Knut_Hamsun
     - https://fi.wikipedia.org/wiki/Knut_Hamsun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66326#Segen-der-Erde
 gutenberg_issued: '2021-09-17'
 identifiers:
   gutenberg: '66326'
